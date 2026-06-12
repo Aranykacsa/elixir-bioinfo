@@ -1,0 +1,17 @@
+# Nextflow
+.nextflow/
+work/
+.nextflow.log*
+
+# Pixi környezetek
+.pixi/
+
+# Kimenetek és nagy fájlok
+bioinfo/bio.zip
+stats/counts.txt
+stats/counts.txt.summary
+stats/gene_expression.csv
+stats/heatmap.pdf
+
+# Egyéb
+git.txt

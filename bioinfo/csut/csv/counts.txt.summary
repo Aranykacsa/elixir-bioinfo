@@ -1,0 +1,15 @@
+Status	bam/HBR_1.bam	bam/HBR_2.bam	bam/HBR_3.bam	bam/UHR_1.bam	bam/UHR_2.bam	bam/UHR_3.bam
+Assigned	39287	48402	42852	67211	43801	53605
+Unassigned_Unmapped	56043	68796	61421	118463	79157	98418
+Unassigned_Read_Type	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0
+Unassigned_MultiMapping	1629	1968	1800	7026	5478	5631
+Unassigned_Secondary	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0
+Unassigned_NoFeatures	20796	24604	22764	34566	34459	27544
+Unassigned_Overlapping_Length	0	0	0	0	0	0
+Unassigned_Ambiguity	1785	2233	2027	3865	2490	3244

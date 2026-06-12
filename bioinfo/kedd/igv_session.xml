@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session genome="refs/ebola-mayinga.fasta"
+         locus="NC_002549.1"
+         version="8">
+    <Resources>
+        <Resource path="refs/ebola-mayinga.gff"/>
+        <Resource path="results/SRR1972738.bam"/>
+    </Resources>
+</Session>

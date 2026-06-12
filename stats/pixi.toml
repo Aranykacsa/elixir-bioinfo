@@ -1,0 +1,10 @@
+[workspace]
+authors = ["aranykacsa <zalanvadasz@gmail.com>"]
+channels = ["conda-forge", "bioconda"]
+name = "stats"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
